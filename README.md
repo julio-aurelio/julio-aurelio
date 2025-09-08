@@ -26,9 +26,7 @@
 ---
 
 ## 📫 Contato
-- 📧 Email: *seu-email-aqui*  
-- 💼 LinkedIn: [Seu Perfil](https://www.linkedin.com)  
-## Hi there 👋
+- 📧 Email: julio.aurelio.senai@gmail.com  
 
 <!--
 **julio-aurelio/julio-aurelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

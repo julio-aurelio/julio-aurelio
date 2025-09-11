@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- 🌐 HTML | CSS | JavaScript  
+- 🌐 HTML | CSS | Python  
 - 🗄️ MySQL | Banco de Dados  
 - 🎨 Figma (UI/UX)  
 

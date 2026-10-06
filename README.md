@@ -13,19 +13,6 @@ Tudo sob a supervisão rigorosa de um gato. 🐱
 
 ---
 
-### 🛒 Em produção: Lojinha do Mauro-Bano
-
-Meu projeto mais completo: criei sozinho, do zero, o sistema de vendas que a lojinha da escola E.M. Prof. Mauro Albano **usa todo dia**.
-
-| Sistema | O que faz | Link |
-|---|---|---|
-| 🛍️ **Loja online** | Os alunos fazem o pedido e pagam com **Pix (Mercado Pago)**. A venda é confirmada sozinha quando o Pix cai, com comprovante e histórico de compras. | [Acessar](https://lojinha-de-pedidos-doceria.vercel.app) |
-| 💻 **PDV do caixa** | Teclas rápidas, controle de caixa, estoque, relatórios, fiado com limite por cliente e Pix por QR Code. | [Acessar](https://projeto-doceria.vercel.app) |
-
-`Python` `Flask` `Supabase (PostgreSQL)` `Mercado Pago` `JavaScript` `Tailwind` `Vercel`
-
----
-
 ### 🛠️ Tecnologias
 
 <p>

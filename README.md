@@ -1,255 +1,92 @@
-# 👋 Olá, eu sou Julio Aurelio Souza
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250px">
-</p>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Gatinho digitando no notebook">
 
-<h3 align="center">💻 Desenvolvedor Full Stack em formação</h3>
+# Julio Aurelio Souza
 
-<p align="center">
-  🎓 Desenvolvimento de Sistemas • SENAI<br>
-  🚀 Criando projetos Web, APIs e aplicações Full Stack<br>
-  🐱 Sempre com um gato supervisionando o código
-</p>
+**Desenvolvedor Full Stack em formação** · Desenvolvimento de Sistemas no SENAI · Itapeva-SP
 
----
+Faço sistemas web de ponta a ponta: tela, API, banco de dados e deploy.<br>
+Tudo sob a supervisão rigorosa de um gato. 🐱
 
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Desenvolvimento de Sistemas no SENAI** e desenvolvedor **Full Stack em formação**.
-
-Minha evolução na programação acontece principalmente através da prática: desenvolvendo aplicações, APIs, interfaces e projetos que integram **front-end, back-end e banco de dados**.
-
-Atualmente trabalho e estudo tecnologias como **TypeScript, JavaScript, Python, HTML, CSS e MySQL**, buscando transformar cada novo projeto em uma oportunidade de aprender algo diferente.
-
-```python
-developer = {
-    "name": "Julio Aurelio",
-    "role": "Full Stack Developer",
-    "education": "Desenvolvimento de Sistemas - SENAI",
-    "interests": ["Web", "APIs", "Back-end", "Banco de Dados"],
-    "supervisor": "🐱",
-    "status": "Building something..."
-}
-```
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+### 🛒 Em produção: Lojinha do Mauro-Bano
 
-### 🌐 Front-end
+Sistema de vendas **usado de verdade** na lojinha da escola E.M. Prof. Mauro Albano, feito do zero:
+
+- **Loja online** onde os alunos fazem o pedido e pagam com **Pix (Mercado Pago)**. A venda é confirmada sozinha quando o Pix cai, com comprovante e histórico de compras.
+- **PDV do caixa** com teclas rápidas, controle de caixa, estoque, relatórios, fiado com limite por cliente e Pix por QR Code.
+- **Loja/totem do bingo**, só para as cartelas, com a promoção "2 por R$ 5".
+
+`Python` `Flask` `Supabase (PostgreSQL)` `Mercado Pago` `JavaScript` `Tailwind` `Vercel`
+
+---
+
+### 🛠️ Tecnologias
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-
-### ⚙️ Back-end
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-### 🔧 Ferramentas
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 ---
 
-# 🚀 Projetos em destaque
+### 🚀 Projetos
 
-## 🌐 Portfolio
-
-Meu projeto de **portfólio pessoal**, desenvolvido para reunir minha evolução, tecnologias e principais trabalhos.
-
-**Tecnologia principal:** TypeScript
-
-🔗 [Ver repositório](https://github.com/julio-aurelio/portfolio)
-
----
-
-## 🧠 Quiz App
-
-Aplicação de quiz desenvolvida utilizando **TypeScript**, explorando lógica, interação com usuário e desenvolvimento de interfaces.
-
-**Tecnologia principal:** TypeScript
-
-🔗 [Ver repositório](https://github.com/julio-aurelio/quiz-app)
-
----
-
-## 🤖 Chat Bot
-
-Projeto de chatbot desenvolvido em **Python**, explorando lógica de back-end e automação de respostas.
-
-**Tecnologia principal:** Python
-
-🔗 [Ver repositório](https://github.com/julio-aurelio/chat_bot)
-
----
-
-## 🎓 TCC — Tabela Periódica
-
-Projeto desenvolvido como parte do meu **TCC**, utilizando Python e integração entre diferentes partes da aplicação.
-
-🔗 [Tabela Periódica](https://github.com/julio-aurelio/TCC-tabela-periodica-)
-
-🔗 [Back-end do TCC](https://github.com/julio-aurelio/TCC-backend-)
-
----
-
-## 🎫 Sistema de Catraca
-
-Projeto envolvendo **front-end + API**, desenvolvido para trabalhar integração entre diferentes camadas de uma aplicação.
-
-**Tecnologias:** JavaScript + Python
-
-🔗 [Catraca Online](https://github.com/julio-aurelio/catraca-online)
-
-🔗 [API Catraca](https://github.com/julio-aurelio/API-catraca)
-
----
-
-## 🚗 Loja de Carros
-
-Aplicação Web desenvolvida utilizando **TypeScript**.
-
-🔗 [Ver projeto](https://github.com/julio-aurelio/loja_de_carro)
-
----
-
-## 🚁 Venda de Drones
-
-Interface para uma loja de drones desenvolvida com tecnologias Web.
-
-🌐 [Ver projeto online](https://venda-de-drone.vercel.app/)
-
-💻 [Ver código](https://github.com/julio-aurelio/venda_de_drone)
-
----
+| Projeto | O que é | Feito com | Links |
+|---|---|---|---|
+| 🧪 **Tabela Periódica Interativa** | TCC: tabela periódica completa e interativa, com os 118 elementos | Python | [Online](https://tcc-tabela-periodica.vercel.app) · [Código](https://github.com/julio-aurelio/Tabela-Periodica-Interativa) |
+| ⚛️ **Gerador de Moléculas 3D** | Back-end do TCC: gerador de moléculas em 3D | Python | [Código](https://github.com/julio-aurelio/Gerador-de-moleculas-3D) |
+| 🎫 **Catraca Online** | Controle de acesso com front-end e API separados | JavaScript · Python | [Front](https://github.com/julio-aurelio/catraca-online) · [API](https://github.com/julio-aurelio/API-catraca) |
+| 📸 **Anubra Studio** | Agência de fotografia: landing page, site e painel admin | HTML · JavaScript | [Landing](https://anubra-studio.vercel.app) · [Site](https://anubra-studio-agencia.vercel.app) · [Admin](https://admin-pearl-eight-87.vercel.app) |
+| 🧮 **Jogo de Matemática Competitivo** | "Desafio da Matemática": jogo de contas para competir | JavaScript | [Online](https://jogo-matematica-competitivo.vercel.app) · [Código](https://github.com/julio-aurelio/jogo-matematica-competitivo) |
+| 📐 **Matemática Passo a Passo** | Matemática explicada passo a passo | JavaScript | [Online](https://matematica-passo-a-passo-liart.vercel.app) · [Código](https://github.com/julio-aurelio/Matematica-Passo-a-Passo) |
+| 🐱 **Que Gato Sou Eu?** | Quiz: descubra que gato você é | CSS · JavaScript | [Código](https://github.com/julio-aurelio/Que-gato-sou-eu) |
+| ⚡ **Who's That Pokémon?** | Jogo de adivinhar o Pokémon | JavaScript | [Online](https://jogo-de-pokemon.vercel.app) · [Código](https://github.com/julio-aurelio/Who-s-That-Pokemon) |
 
 <details>
-<summary><b>📂 Ver outros projetos</b></summary>
-
+<summary><b>📂 Mais projetos</b></summary>
 <br>
 
-### 📚 Biblioteca
-
-Projeto desenvolvido em Python.
-
-🔗 [Repositório](https://github.com/julio-aurelio/biblioteca)
-
-### 🐱 Que Gato Sou Eu?
-
-Projeto em Python — porque aparentemente um gato supervisionando o código não era suficiente.
-
-🔗 [Repositório](https://github.com/julio-aurelio/Que-gato-sou-eu)
-
-### 😂 API de Charadas
-
-API desenvolvida em Python.
-
-🔗 [Repositório](https://github.com/julio-aurelio/api_charadas)
-
-### 🧩 Quiz de Charadas
-
-Aplicação em JavaScript integrada ao conceito de quiz.
-
-🔗 [Repositório](https://github.com/julio-aurelio/quiz_de_charadas)
-
-### 🏨 Projeto Hotel
-
-Projeto Web desenvolvido durante minha evolução no curso.
-
-🔗 [Repositório](https://github.com/julio-aurelio/Projeto_hotel-main)
-
-### 🍔 Cardápio Digital
-
-Um dos meus primeiros projetos de desenvolvimento Web.
-
-🔗 [Repositório](https://github.com/julio-aurelio/projeto-cardapio)
-
-### 🔥 Lista de Itens — FireStone
-
-Projeto Web desenvolvido com HTML.
-
-🔗 [Repositório](https://github.com/julio-aurelio/Lista_de_itens_em_FireStone)
+| Projeto | Feito com | Links |
+|---|---|---|
+| 🏨 Hotel Estrela do Mar | HTML · CSS | [Online](https://julio-aurelio.github.io/Hotel-Estrela-do-Mar/) · [Código](https://github.com/julio-aurelio/Hotel-Estrela-do-Mar) |
+| 🍲 Sabor de Minas: cardápio online | HTML · CSS | [Online](https://julio-aurelio.github.io/Sabor-de-Minas-cardapio-online/) · [Código](https://github.com/julio-aurelio/Sabor-de-Minas-cardapio-online) |
+| 🚁 AGROVANT: drone agrícola | HTML · CSS | [Online](https://julio-aurelio.github.io/AGROVANT-drone-agr-cola/) · [Código](https://github.com/julio-aurelio/AGROVANT-drone-agr-cola) |
+| 📰 Jornal de NERD | HTML | [Online](https://julio-aurelio.github.io/Jornal-de-NERD/) · [Código](https://github.com/julio-aurelio/Jornal-de-NERD) |
+| 🚗 Timberman Garagem: loja de carros | TypeScript | [Online](https://loja-de-carro-topaz.vercel.app) · [Código](https://github.com/julio-aurelio/Timberman-Garagem) |
+| 😁 TimerFace Rush: corrida das caretas | JavaScript | [Online](https://timer-do-sorriso.vercel.app) · [Código](https://github.com/julio-aurelio/TimerFace-Rush) |
+| 🏋️ Área Admin: academia | JavaScript | [Código](https://github.com/julio-aurelio/area_Admin-academia) |
+| 📝 Blog com Flask e MySQL | Python · Flask · MySQL | [Código](https://github.com/julio-aurelio/Blog-com-Flask-e-MySQL) |
+| 🔴 Pokédex dos 151 Pokémon | HTML · JavaScript | [Código](https://github.com/julio-aurelio/Pokedex_151_pokemons) |
+| 🦋 Quiz: Sons de Hallownest | TypeScript | [Código](https://github.com/julio-aurelio/quiz-Sons-de-Hallownest) |
+| 🐾 Catálogo Social Felino | TypeScript | [Código](https://github.com/julio-aurelio/Catalogo-Social-Felino) |
+| 📳 Jogo Vibrativo | TypeScript | [Código](https://github.com/julio-aurelio/jogo-vibrativo) |
 
 </details>
 
 ---
 
-# 📈 Minha evolução
+<div align="center">
 
-```text
-HTML + CSS
-    ↓
-JavaScript
-    ↓
-Python + Banco de Dados
-    ↓
-APIs
-    ↓
-TypeScript
-    ↓
-Front-end + Back-end
-    ↓
-Full Stack 🚀
+```python
+while vivo:
+    codar()
+    debugar()
+    fazer_carinho_no_gato()  # obrigatório
 ```
 
----
-
-## 📈 Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=julio-aurelio&theme=tokyo-night&hide_border=true">
-</p>
-
----
-
-# 🎯 Atualmente
-
-📚 Estudando **Desenvolvimento de Sistemas no SENAI**
-
-💻 Evoluindo como **Full Stack Developer**
-
-⚙️ Aprimorando conhecimentos em **APIs e Back-end**
-
-🗄️ Trabalhando com **Banco de Dados**
-
-🚀 Desenvolvendo projetos para transformar conhecimento em experiência prática
-
----
-
-<p align="center">
-
-### 🐱 DEV STATUS
-
-```text
-while (alive) {
-    eat();
-    code();
-    debug();
-    petCat();
-    sleep();
-}
-```
-
-</p>
-
-<p align="center">
-  <b>Obrigado por visitar meu GitHub! 🚀</b>
-</p>
+</div>

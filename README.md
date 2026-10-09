@@ -13,7 +13,7 @@ Tudo sob a supervisão rigorosa de um gato. 🐱
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -36,14 +36,14 @@ Tudo sob a supervisão rigorosa de um gato. 🐱
 
 | Projeto | O que é | Feito com | Links |
 |---|---|---|---|
-| 🧪 **Tabela Periódica Interativa** | TCC: tabela periódica completa e interativa, com os 118 elementos | Python | [Online](https://tcc-tabela-periodica.vercel.app) · [Código](https://github.com/julio-aurelio/Tabela-Periodica-Interativa) |
-| ⚛️ **Gerador de Moléculas 3D** | Back-end do TCC: gerador de moléculas em 3D | Python | [Código](https://github.com/julio-aurelio/Gerador-de-moleculas-3D) |
-| 🎫 **Catraca Online** | Controle de acesso com front-end e API separados | JavaScript · Python | [Front](https://github.com/julio-aurelio/catraca-online) · [API](https://github.com/julio-aurelio/API-catraca) |
-| 📸 **Anubra Studio** | Agência de fotografia: landing page, site e painel admin | HTML · JavaScript | [Landing](https://anubra-studio.vercel.app) · [Site](https://anubra-studio-agencia.vercel.app) · [Admin](https://admin-pearl-eight-87.vercel.app) |
-| 🧮 **Jogo de Matemática Competitivo** | "Desafio da Matemática": jogo de contas para competir | JavaScript | [Online](https://jogo-matematica-competitivo.vercel.app) · [Código](https://github.com/julio-aurelio/jogo-matematica-competitivo) |
-| 📐 **Matemática Passo a Passo** | Matemática explicada passo a passo | JavaScript | [Online](https://matematica-passo-a-passo-liart.vercel.app) · [Código](https://github.com/julio-aurelio/Matematica-Passo-a-Passo) |
-| 🐱 **Que Gato Sou Eu?** | Quiz: descubra que gato você é | CSS · JavaScript | [Código](https://github.com/julio-aurelio/Que-gato-sou-eu) |
-| ⚡ **Who's That Pokémon?** | Jogo de adivinhar o Pokémon | JavaScript | [Online](https://jogo-de-pokemon.vercel.app) · [Código](https://github.com/julio-aurelio/Who-s-That-Pokemon) |
+| **Tabela Periódica Interativa** | TCC: tabela periódica completa e interativa, com os 118 elementos | Python | [Online](https://tcc-tabela-periodica.vercel.app) · [Código](https://github.com/julio-aurelio/Tabela-Periodica-Interativa) |
+| **Gerador de Moléculas 3D** | Back-end do TCC: gerador de moléculas em 3D | Python | [Código](https://github.com/julio-aurelio/Gerador-de-moleculas-3D) |
+| **Catraca Online** | Controle de acesso com front-end e API separados | JavaScript · Python | [Front](https://github.com/julio-aurelio/catraca-online) · [API](https://github.com/julio-aurelio/API-catraca) |
+| **Anubra Studio** | Agência de fotografia: landing page, site e painel admin | HTML · JavaScript | [Landing](https://anubra-studio.vercel.app) · [Site](https://anubra-studio-agencia.vercel.app) · [Admin](https://admin-pearl-eight-87.vercel.app) |
+| **Jogo de Matemática Competitivo** | "Desafio da Matemática": jogo de contas para competir | JavaScript | [Online](https://jogo-matematica-competitivo.vercel.app) · [Código](https://github.com/julio-aurelio/jogo-matematica-competitivo) |
+| **Matemática Passo a Passo** | Matemática explicada passo a passo | JavaScript | [Online](https://matematica-passo-a-passo-liart.vercel.app) · [Código](https://github.com/julio-aurelio/Matematica-Passo-a-Passo) |
+| **Que Gato Sou Eu?** | Quiz: descubra que gato você é | CSS · JavaScript | [Código](https://github.com/julio-aurelio/Que-gato-sou-eu) |
+| **Who's That Pokémon?** | Jogo de adivinhar o Pokémon | JavaScript | [Online](https://jogo-de-pokemon.vercel.app) · [Código](https://github.com/julio-aurelio/Who-s-That-Pokemon) |
 
 <details>
 <summary><b>📂 Mais projetos</b></summary>
@@ -51,18 +51,18 @@ Tudo sob a supervisão rigorosa de um gato. 🐱
 
 | Projeto | Feito com | Links |
 |---|---|---|
-| 🏨 Hotel Estrela do Mar | HTML · CSS | [Online](https://julio-aurelio.github.io/Hotel-Estrela-do-Mar/) · [Código](https://github.com/julio-aurelio/Hotel-Estrela-do-Mar) |
-| 🍲 Sabor de Minas: cardápio online | HTML · CSS | [Online](https://julio-aurelio.github.io/Sabor-de-Minas-cardapio-online/) · [Código](https://github.com/julio-aurelio/Sabor-de-Minas-cardapio-online) |
-| 🚁 AGROVANT: drone agrícola | HTML · CSS | [Online](https://julio-aurelio.github.io/AGROVANT-drone-agr-cola/) · [Código](https://github.com/julio-aurelio/AGROVANT-drone-agr-cola) |
-| 📰 Jornal de NERD | HTML | [Online](https://julio-aurelio.github.io/Jornal-de-NERD/) · [Código](https://github.com/julio-aurelio/Jornal-de-NERD) |
-| 🚗 Timberman Garagem: loja de carros | TypeScript | [Online](https://loja-de-carro-topaz.vercel.app) · [Código](https://github.com/julio-aurelio/Timberman-Garagem) |
-| 😁 TimerFace Rush: corrida das caretas | JavaScript | [Online](https://timer-do-sorriso.vercel.app) · [Código](https://github.com/julio-aurelio/TimerFace-Rush) |
-| 🏋️ Área Admin: academia | JavaScript | [Código](https://github.com/julio-aurelio/area_Admin-academia) |
-| 📝 Blog com Flask e MySQL | Python · Flask · MySQL | [Código](https://github.com/julio-aurelio/Blog-com-Flask-e-MySQL) |
-| 🔴 Pokédex dos 151 Pokémon | HTML · JavaScript | [Código](https://github.com/julio-aurelio/Pokedex_151_pokemons) |
-| 🦋 Quiz: Sons de Hallownest | TypeScript | [Código](https://github.com/julio-aurelio/quiz-Sons-de-Hallownest) |
-| 🐾 Catálogo Social Felino | TypeScript | [Código](https://github.com/julio-aurelio/Catalogo-Social-Felino) |
-| 📳 Jogo Vibrativo | TypeScript | [Código](https://github.com/julio-aurelio/jogo-vibrativo) |
+| Hotel Estrela do Mar | HTML · CSS | [Online](https://julio-aurelio.github.io/Hotel-Estrela-do-Mar/) · [Código](https://github.com/julio-aurelio/Hotel-Estrela-do-Mar) |
+| Sabor de Minas: cardápio online | HTML · CSS | [Online](https://julio-aurelio.github.io/Sabor-de-Minas-cardapio-online/) · [Código](https://github.com/julio-aurelio/Sabor-de-Minas-cardapio-online) |
+| AGROVANT: drone agrícola | HTML · CSS | [Online](https://julio-aurelio.github.io/AGROVANT-drone-agr-cola/) · [Código](https://github.com/julio-aurelio/AGROVANT-drone-agr-cola) |
+| Jornal de NERD | HTML | [Online](https://julio-aurelio.github.io/Jornal-de-NERD/) · [Código](https://github.com/julio-aurelio/Jornal-de-NERD) |
+| Timberman Garagem: loja de carros | TypeScript | [Online](https://loja-de-carro-topaz.vercel.app) · [Código](https://github.com/julio-aurelio/Timberman-Garagem) |
+| TimerFace Rush: corrida das caretas | JavaScript | [Online](https://timer-do-sorriso.vercel.app) · [Código](https://github.com/julio-aurelio/TimerFace-Rush) |
+| Área Admin: academia | JavaScript | [Código](https://github.com/julio-aurelio/area_Admin-academia) |
+| Blog com Flask e MySQL | Python · Flask · MySQL | [Código](https://github.com/julio-aurelio/Blog-com-Flask-e-MySQL) |
+| Pokédex dos 151 Pokémon | HTML · JavaScript | [Código](https://github.com/julio-aurelio/Pokedex_151_pokemons) |
+| Quiz: Sons de Hallownest | TypeScript | [Código](https://github.com/julio-aurelio/quiz-Sons-de-Hallownest) |
+| Catálogo Social Felino | TypeScript | [Código](https://github.com/julio-aurelio/Catalogo-Social-Felino) |
+| Jogo Vibrativo | TypeScript | [Código](https://github.com/julio-aurelio/jogo-vibrativo) |
 
 </details>
 
